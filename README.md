@@ -14,5 +14,5 @@ Developed a robust full-stack blog web application using React, Node.js, and MyS
 ## Technologies Used
 
 - React
-- Node.js
+- Node.js (with Express.js)
 - MySQL
